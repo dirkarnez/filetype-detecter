@@ -10,6 +10,7 @@
   - [IFCjs/web-ifc-three: The official IFC Loader for Three.js.](https://github.com/IFCjs/web-ifc-three)
   
 ## Reference
+- [file-type - npm](https://www.npmjs.com/package/file-type)
 - [FileReader: load event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/FileReader/load_event)
 - [filereader - Read part of binary file in javascript without loading whole file in memory - Stack Overflow](https://stackoverflow.com/questions/61921638/read-part-of-binary-file-in-javascript-without-loading-whole-file-in-memory)
 - [Blob.slice() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Blob/slice)
